@@ -1,0 +1,1 @@
+This application was tested on a 5.5’ devices, so it works best for those devices.

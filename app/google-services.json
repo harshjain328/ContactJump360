@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "451380136278",
+    "firebase_url": "https://contacts-7fdfd.firebaseio.com",
+    "project_id": "contacts-7fdfd",
+    "storage_bucket": "contacts-7fdfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451380136278:android:659662a006eb8f82",
+        "android_client_info": {
+          "package_name": "com.noobs.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451380136278-greaq0cg1jv3ji237atisutpv96b2uv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-M-0xj4z_66S5NFN6GR1-73NBMw7tAIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451380136278:android:e0de584e17e11881",
+        "android_client_info": {
+          "package_name": "com.noobs.contactjump360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451380136278-greaq0cg1jv3ji237atisutpv96b2uv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-M-0xj4z_66S5NFN6GR1-73NBMw7tAIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
